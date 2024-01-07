@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://mposlot77.getprooph.org/sitemap.xml
+Sitemap : http://maxwin188online.php-map.org/sitemap.xml
